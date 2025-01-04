@@ -1,4 +1,4 @@
-//base by Limule Solitarus 
+l//base by Limule Solitarus 
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @Darklimule
 //Instagram: mikael_jordan
@@ -11,19 +11,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237698581946"
-global.ownername = "🐉Limule Solitarus"
+global.ownernomer = "224669094865"
+global.ownername = "‎亗K͜͡ɪɴɢウ 🅰🅽🅾🅽🆈🅼🅾🆄🆂"
 global.ytname = "YT: Deaethgun635"
 global.socialm = "GitHub: Limule3650"
-global.location = "Cameroon, Yaounde"
+global.location = "Guinea, Conakry"
 
-global.ownernumber = '237698581946'  //creator number
-global.ownername = '🐉Limule Solitarus' //owner name
-global.botname = '💞𝐒𝐇𝐔𝐍𝐀_𝐁𝐔𝐆-𝐁𝐎𝐓💞' //name of the bot
+global.ownernumber = '224669094865'  //creator number
+global.ownername = '‎亗K͜͡ɪɴɢウ 🅰🅽🅾🅽🆈🅼🅾🆄🆂' //owner name
+global.botname = '‎彡[ᴀɴᴏɴʏᴍᴏᴜs]彡' //name of the bot
 
 //sticker details
-global.packname = '🍭𝐒𝐞𝐱𝐲 𝐒𝐡𝐮𝐧𝐚-𝐛𝐨𝐭'
-global.author = '🐉Limule Solitarus'
+global.packname = '‎亗K͜͡ɪɴɢウ 🅰🅽🅾🅽🆈🅼🅾🆄🆂'
+global.author = '‎亗K͜͡ɪɴɢウ 🅰🅽🅾🅽🆈🅼🅾🆄🆂'
 
 //console view/theme
 global.themeemoji = '🪀'
